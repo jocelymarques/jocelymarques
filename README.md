@@ -1,4 +1,4 @@
-## Olá ! sou Jocely Marques
+## Olá! sou Jocely Marques, Desenvolvedor de sistemas, graduado em análise e desenvolvimento de sistemas
 
  <div>
   <a href="https://github.com/jocelymarques">
